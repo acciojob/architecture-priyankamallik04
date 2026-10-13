@@ -1,15 +1,11 @@
-body{
-	
-	background-color: #CBD6CB;
-	font-family: Arial, Helvetica, sans-serif;
-}
-
-     .main{    
+div{
          	width: 1100px;
-			padding-bottom: 20px;
-	        
+         	 font-family: Arial, Helvetica, sans-serif;
+	          background-color: #CBD6CB;
+	          padding-bottom: 20px;
          }
 
+     
        .imageContainer {
 			width: 600px;
 			height: 300px;
